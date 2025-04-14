@@ -1,0 +1,93 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.bg-dark-custom {
+  background-color: #212529 !important;
+  color: white !important;
+}
+
+.nav-link:hover {
+  background-color: #495057;
+}
+
+.active {
+  background-color: #007bff !important;
+}
+
+.container-fluid {
+  margin-top: 20px;
+}
+
+.nav-item .nav-link {
+  font-size: 1.1rem;
+}
+
+.content-wrapper {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.p-4-custom {
+  padding: 30px;
+}
+
+.menu-title {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.menu-item-icon {
+  margin-right: 10px;
+}
+
+/* New Styles for Form */
+.card {
+  border-radius: 8px;
+}
+
+.card-body {
+  padding: 30px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.btn {
+  font-size: 1.1rem;
+  padding: 10px 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+  border-color: #4e555b;
+}
+
+.sidebar .nav-link {
+  color: #fff !important;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #343a40 !important;
+}
